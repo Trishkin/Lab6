@@ -100,6 +100,13 @@ namespace Лаба_6
             Console.WriteLine($"Name: {name}  Age: {age}");
         }
     }
+    partial class Class1
+    { 
+    public void ICanRun()
+        { 
+            Console.WriteLine($"I Run");
+        }
+    }
     class Program
     {
         static void Main(string[] args)
