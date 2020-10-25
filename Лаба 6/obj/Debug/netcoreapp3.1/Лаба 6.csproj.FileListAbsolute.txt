@@ -1,0 +1,13 @@
+D:\ООП 2 курс\1 сем\Лаба 6\Лаба 6\bin\Debug\netcoreapp3.1\Лаба 6.exe
+D:\ООП 2 курс\1 сем\Лаба 6\Лаба 6\bin\Debug\netcoreapp3.1\Лаба 6.deps.json
+D:\ООП 2 курс\1 сем\Лаба 6\Лаба 6\bin\Debug\netcoreapp3.1\Лаба 6.runtimeconfig.json
+D:\ООП 2 курс\1 сем\Лаба 6\Лаба 6\bin\Debug\netcoreapp3.1\Лаба 6.runtimeconfig.dev.json
+D:\ООП 2 курс\1 сем\Лаба 6\Лаба 6\bin\Debug\netcoreapp3.1\Лаба 6.dll
+D:\ООП 2 курс\1 сем\Лаба 6\Лаба 6\bin\Debug\netcoreapp3.1\Лаба 6.pdb
+D:\ООП 2 курс\1 сем\Лаба 6\Лаба 6\obj\Debug\netcoreapp3.1\Лаба 6.csprojAssemblyReference.cache
+D:\ООП 2 курс\1 сем\Лаба 6\Лаба 6\obj\Debug\netcoreapp3.1\Лаба 6.AssemblyInfoInputs.cache
+D:\ООП 2 курс\1 сем\Лаба 6\Лаба 6\obj\Debug\netcoreapp3.1\Лаба 6.AssemblyInfo.cs
+D:\ООП 2 курс\1 сем\Лаба 6\Лаба 6\obj\Debug\netcoreapp3.1\Лаба 6.csproj.CoreCompileInputs.cache
+D:\ООП 2 курс\1 сем\Лаба 6\Лаба 6\obj\Debug\netcoreapp3.1\Лаба 6.dll
+D:\ООП 2 курс\1 сем\Лаба 6\Лаба 6\obj\Debug\netcoreapp3.1\Лаба 6.pdb
+D:\ООП 2 курс\1 сем\Лаба 6\Лаба 6\obj\Debug\netcoreapp3.1\Лаба 6.genruntimeconfig.cache
